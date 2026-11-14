@@ -1,4 +1,9 @@
-[<img width="600" height="267" alt="coda_lockup_on-dark_1200w" src="https://github.com/user-attachments/assets/7eaee909-614b-4899-8e17-103511a2d1fb" />](https://lab-coda.github.io/)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lab-coda/brand/main/github/coda_github-banner_dark.svg">
+    <img alt="CODA Lab: Cognition, Open Data, Analysis" src="https://raw.githubusercontent.com/lab-coda/brand/main/github/coda_github-banner_light.svg" width="720">
+  </picture>
+</p>
 
 _Lab for Cognition, Open Data, Analysis_
 
